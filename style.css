@@ -1,0 +1,69 @@
+.menu-button {
+
+    font-size: 30px;
+    display: none;
+
+}
+
+
+/* carousel start */
+
+.slider-info {
+    width: 40%;
+}
+
+
+
+
+
+
+
+/* section-2 start */
+.about {
+    width: 40%;
+}
+
+.sec-2-head {
+    text-align: center;
+}
+
+
+/* course info started*/
+
+.course-part {}
+
+.middle-button {
+    display: flex;
+    justify-content: center;
+}
+
+.section-5 {
+    background-color: aliceblue;
+    height: 30%;
+}
+
+
+/* section 6 start */
+
+.sec-6-info h1,
+.join-p {
+    color: white;
+}
+
+/* last section started */
+
+.footer h1,
+.adress {
+    color: white;
+
+}
+
+.fa-brands {
+    margin-right: 10px;
+    font-size: 20px;
+    color: white;
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 10px;
+    background-color: black;
+}
